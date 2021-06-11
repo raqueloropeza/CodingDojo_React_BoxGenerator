@@ -1,3 +1,5 @@
+# Box - Generator App
+React app that allows the user to add a box to the set of boxes on display and change the color depending on what is submitted via the form.  
 1. User can create/add boxes of various colors
 2. On successfully adding a new box, the box appears immediately
 3. Form clears input field upon successful submission.
