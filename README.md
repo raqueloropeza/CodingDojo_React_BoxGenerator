@@ -1,3 +1,7 @@
+1. User can create/add boxes of various colors
+2. On successfully adding a new box, the box appears immediately
+3. Form clears input field upon successful submission.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
