@@ -4,7 +4,6 @@ React app that allows the user to add a box to the set of boxes on display and c
 2. On successfully adding a new box, the box appears immediately
 3. Form clears input field upon successful submission.
 
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
